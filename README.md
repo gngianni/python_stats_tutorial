@@ -1,12 +1,12 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gngianni/conda_binder_GNG/tree/r40_py311/r40_py311)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gngianni/conda_binder_GNG/r40_py311)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/gngianni/conda_binder_GNG/tree/r40_py311/r40_py311
+https://mybinder.org/v2/gh/gngianni/conda_binder_GNG/r40_py311
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
