@@ -10,8 +10,8 @@ from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 import sys 
 
-# Printing 0th argument value 
-print(sys.argv[0]) 
+# Printing argument value 
+print(sys.argv) 
 
 print("Running Linear Modelling of Data Python Script") 
 
