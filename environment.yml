@@ -25,4 +25,6 @@ dependencies:
   - pip:
     - plotly 
     - scikit-learn
+    - seaborn 
+    - statsmodels 
    
