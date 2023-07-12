@@ -1,12 +1,12 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gngianni/python_stats_tutorial/stats_and_seaborn)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gngianni/python_stats_tutorial/HEAD)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/gngianni/python_stats_tutorial/stats_and_seaborn
+https://mybinder.org/v2/gh/gngianni/python_stats_tutorial/HEAD
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
