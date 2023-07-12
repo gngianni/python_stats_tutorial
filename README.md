@@ -8,6 +8,9 @@ Access this Binder by clicking the blue badge above or at the following URL:
 
 https://mybinder.org/v2/gh/gngianni/python_stats_tutorial/HEAD
 
+## Python Stats Tutorial Assignment 
+The python code contained in this repo has been created using the information here: https://scipy-lectures.org/packages/statistics/index.html#id25
+
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:
